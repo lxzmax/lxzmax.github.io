@@ -1,0 +1,6 @@
+{
+  "LatestVersion": "2.2.0.0",
+  "UpdateUrl": "https://lxzmax.github.io/YunXiUpdate.zip",
+  "UpdateLog": "1. 新增在线更新功能；2. 优化扫描速度；3. 修复已知bug",
+  "MinSupportVersion": "2.0.0.0"
+}
